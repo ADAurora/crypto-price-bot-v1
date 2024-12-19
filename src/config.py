@@ -25,4 +25,4 @@ class Config:
             )
 
 # Now we can check if the token was loaded successfully
-print(f"Token loaded: {'YES' if Config.TELEGRAM_TOKEN else 'NO'}")
+print(f"Token loaded: {'YES' if Config.TELEGRAM_TOKEN else 'NO'}")git 
